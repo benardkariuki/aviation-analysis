@@ -17,6 +17,10 @@ Business Problem: My company is expanding into the aviation industry but lacks i
 • Converted necessary data types (e.g., Date format).
 • Number of aviation accidents has fluctuated over the years. 
 • Recent trends indicate improved safety measures. 
+## How to access my Tableau Dashboard
+You can follow the link 
+
+https://public.tableau.com/app/profile/benard.kariuki2262/viz/project_17594265314670/aviationanalysis
 
 ## Recommendations
 Our data illuminates the average trend fetal aero plane accidences occurred in the early adoption years. As technology got better over the years accidence happened less often.
