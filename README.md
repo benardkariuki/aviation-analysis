@@ -16,10 +16,15 @@ Business Problem: My company is expanding into the aviation industry but lacks i
 
 ## Data cleaning and processing 
 • Removing missing values and inconsistencies. 
+
 • Standardized column names for uniformity. 
+
 • Converted necessary data types (e.g., Date format).
+
 • Number of aviation accidents has fluctuated over the years. 
+
 • Recent trends indicate improved safety measures. 
+
 ## How to access my Tableau Dashboard
 You can follow the link 
 
